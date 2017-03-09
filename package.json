@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "app for store like amazon.",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrybates/Bamazon.git"
+  },
+  "author": "Theresa Bates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrybates/Bamazon/issues"
+  },
+  "homepage": "https://github.com/terrybates/Bamazon#readme"
+}
